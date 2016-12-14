@@ -5,6 +5,9 @@ Internet of Things (IoT) has become increasingly ubiquitous during the past few 
 The software in this repository require two main pieces of software: Python 2.7 or higher, and TensorFlow for Python. Once they are installed, the repository can simple be cloned (using git clone) and the Python scripts can be executed.
 
 Python: https://www.python.org/downloads/
+
 TensorFlow: https://www.tensorflow.org/get_started/os_setup
+
 MNIST Dataset: http://yann.lecun.com/exdb/mnist/ 
+
 SVHN Dataset: http://ufldl.stanford.edu/housenumbers/
